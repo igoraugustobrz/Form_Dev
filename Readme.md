@@ -56,6 +56,7 @@ $ cd Form_Dev
 
 - HTML
 - CSS
+- JS
 
 ## Contribuindo 
 
